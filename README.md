@@ -8,3 +8,7 @@ https://matf.github.io/relativenumberruler/updatesite/
 ```shell
 curl https://raw.githubusercontent.com/chubbyhippo/.vrapperrc/refs/heads/main/.vrapperrc -o ~/.vrapperrc
 ```
+## dbeaverc
+```sh
+dbeaverc -nosplash -application org.eclipse.equinox.p2.director -repository http://vrapper.sourceforge.net/update-site/stable -list
+```
