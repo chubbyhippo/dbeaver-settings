@@ -1,4 +1,7 @@
 # dbeaver
+```sh
+curl https://raw.githubusercontent.com/chubbyhippo/dbeaver-settings/refs/heads/main/install.sh | /usr/bin/env sh
+```
 ## extract sql
 Preferences > Editors > SQL Editor > Code Editor > Extract SQL from source code
 ## plugins
