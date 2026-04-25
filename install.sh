@@ -10,6 +10,7 @@ dbeaver -nosplash -application org.eclipse.equinox.p2.director -repository https
 dbeaver -nosplash -application org.eclipse.equinox.p2.director -repository https://vrapper.sourceforge.net/update-site/unstable -installIU net.sourceforge.vrapper.plugin.sneak.feature.group
 dbeaver -nosplash -application org.eclipse.equinox.p2.director -repository https://vrapper.sourceforge.net/update-site/unstable -installIU net.sourceforge.vrapper.plugin.splitEditor.feature.group
 dbeaver -nosplash -application org.eclipse.equinox.p2.director -repository https://vrapper.sourceforge.net/update-site/unstable -installIU net.sourceforge.vrapper.plugin.subwordtextobj.feature.group
+dbeaver -nosplash -application org.eclipse.equinox.p2.director -repository https://vrapper.sourceforge.net/update-site/unstable -installIU net.sourceforge.vrapper.plugin.surround.feature.group
 
 dbeaver -nosplash -application org.eclipse.equinox.p2.director -repository https://matf.github.io/relativenumberruler/updatesite -installIU com.github.matf.relativenumberruler
  
