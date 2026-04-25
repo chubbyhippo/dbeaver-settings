@@ -13,5 +13,5 @@ curl https://raw.githubusercontent.com/chubbyhippo/.vrapperrc/refs/heads/main/.v
 ```
 ## dbeaverc
 ```sh
-dbeaverc -nosplash -application org.eclipse.equinox.p2.director -repository http://vrapper.sourceforge.net/update-site/stable -list
+dbeaver -nosplash -application org.eclipse.equinox.p2.director -repository http://vrapper.sourceforge.net/update-site/stable -list
 ```
